@@ -8,10 +8,10 @@
     scroll-behavior: smooth scroll;
 }
 :root{
-    --bg-color: #ffffff;
-    --text-color: #22100d;
-    --second-color: #685f78;
-    --main-color: #f66962;
+    --bg-color: #C0FDFB;
+    --text-color: #001D4A;
+    --second-color: #27476E;
+    --main-color: #006992;
     --big-font: 3.8rem;
     --h2-font: 2.6rem;
     --p-font: 1.1rem;
@@ -81,7 +81,7 @@ section {
     position: relative;
     height: 100vh;
     width: 100%;
-    background: url(../Images/background.jpg);
+    background: url(../Task3/Images/background.jpg);
     background-size: cover;
     background-position: center;
     display: grid;
@@ -244,7 +244,7 @@ header.sticky{
     transform: scale(0.9) translateY(-5px);
 }
 .courses{
-    background: url(../Images/background.jpg);
+    background: url(../Task3/Images/background.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -324,7 +324,7 @@ header.sticky{
     margin-top: 5rem;
 }
 .about{
-    background: url(../Images/background.jpg);
+    background: url(../Task3/Images/background.jpg);
     background-size: cover;
     background-position: center;
     display: grid;
