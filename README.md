@@ -1,4 +1,4 @@
-# Next24tech-Web-Development-Internship-Tasks
+# Next24tech: Web Development Internship Tasks 1-2-3.
 ## Next24tech Technology &amp; Services: Web Development Internship Task (March 15th - May 15th) 
 
 ### Task 1:
